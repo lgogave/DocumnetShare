@@ -1,0 +1,17 @@
+C:\Users\Laxmikant\source\repos\POCRPA\POCRPAConsole\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Laxmikant\source\repos\POCRPA\POCRPAConsole\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Laxmikant\source\repos\POCRPA\POCRPAConsole\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Laxmikant\source\repos\POCRPA\POCRPAConsole\bin\Debug\POCRPAConsole.exe.config
+C:\Users\Laxmikant\source\repos\POCRPA\POCRPAConsole\bin\Debug\POCRPAConsole.exe
+C:\Users\Laxmikant\source\repos\POCRPA\POCRPAConsole\bin\Debug\POCRPAConsole.pdb
+C:\Users\Laxmikant\source\repos\POCRPA\POCRPAConsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Laxmikant\source\repos\POCRPA\POCRPAConsole\bin\Debug\WebDriver.dll
+C:\Users\Laxmikant\source\repos\POCRPA\POCRPAConsole\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Laxmikant\source\repos\POCRPA\POCRPAConsole\bin\Debug\WebDriver.xml
+C:\Users\Laxmikant\source\repos\POCRPA\POCRPAConsole\obj\Debug\POCRPAConsole.csproj.CoreCompileInputs.cache
+C:\Users\Laxmikant\source\repos\POCRPA\POCRPAConsole\obj\Debug\POCRPAConsole.csproj.CopyComplete
+C:\Users\Laxmikant\source\repos\POCRPA\POCRPAConsole\obj\Debug\POCRPAConsole.exe
+C:\Users\Laxmikant\source\repos\POCRPA\POCRPAConsole\obj\Debug\POCRPAConsole.pdb
+C:\Users\Laxmikant\source\repos\POCRPA\POCRPAConsole\bin\Debug\WebDriver.Support.dll
+C:\Users\Laxmikant\source\repos\POCRPA\POCRPAConsole\bin\Debug\WebDriver.Support.xml
+C:\Users\Laxmikant\source\repos\POCRPA\POCRPAConsole\obj\Debug\POCRPAConsole.csproj.AssemblyReference.cache
